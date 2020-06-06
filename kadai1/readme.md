@@ -18,7 +18,7 @@ if __name__ == "__main__":
 	img_size = (img.shape[1],img.shape[0])
 	M = np.float32([[0.4,0.7,50],[-0.2,0.5,+150]])
 	dst = cv2.warpAffine(img,M,img_size)
-	cv2.imwrite("affined.png",dst)
+	cv2.imwrite("warped.png",dst)
 ```
 
 - このフォルダにある``invaffine.py``という名前の名前のファイルを変更してコードを書いて下さい．
