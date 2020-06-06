@@ -1,2 +1,19 @@
-# visualprocessing
-multipedia processing course at the nihon university 
+# マルチメディア情報処理，梅谷担当分
+
+
+# ミニ課題１
+
+[kadai1のフォルダ](kadai1)からお願します．
+
+
+# 課題の提出の仕方
+
+```bash
+git clone ...
+
+
+```
+
+- 締め切りは土曜日の夜までです
+- 遅れても減点するだけなので，できるだけ提出してください．
+- 何かつまずいたらSlackで教えて下さい
