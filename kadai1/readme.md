@@ -7,26 +7,27 @@
 
 ## 課題の提出方法
 
-- gitを使ってローカル上にレポジトリを構築
-  + 課題のレポジトリをダウンロード
+- gitを使ってローカルにレポジトリを構築
+
 ```bash
 git clone https://github.com/MediaProcessingClass/visproc_(ユーザ名)
 ```
 
 - kadai1という名前のブランチを切る
 ```bash
-cd visproc_(ユーザー名)
-git branch -a
-git checkout master
-git branch kadai1
+cd visproc_(ユーザ名)   # レポジトリのトップに移動
+git branch -a         # ブランチのブランチの状況を確認
+git checkout master   # masterブランチの内容をローカルに設定
+git branch kadai1     # masterブランチから派生したkadai1というブランチを作成
 ```
 
 - アップロードする
 ```bash
-cd ..
-git add .
-git commit -m "completed kadai1"
-git push --set-upstream origin kadai1
+cd visproc_(ユーザ名)     # レポジトリのトップに移動
+git add .       # 変更されたファイルをステージする
+git status      # ステージされたファイルを確認する
+git commit -m "completed kadai1"      # 変更をコミットする．コメントはなんでもよい
+git push --set-upstream origin kadai1    # リモートレポジトリのkadai1というブランチに変更内容をプッシュする
 ```
 
 - ブラウザでプルリクエストを作成
