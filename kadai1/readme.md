@@ -114,3 +114,12 @@ Markdown
 - グリーンバックの女性　https://www.pakutaso.com/20161005297post-9335.html
 - 日本大学・文理キャンパス https://www.chs.nihon-u.ac.jp/community/
 
+
+## トラブルシューティング
+
+- pythonを実行した時に```ModuleNotFoundError: No Module named'cv2'```というエラーが出る
+  - 以下のコマンドを実行してopencvのモジュールをインストール
+```bash
+pip3 install opencv-python
+```
+
