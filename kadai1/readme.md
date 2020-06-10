@@ -1,5 +1,39 @@
 # ミニ課題１　６月１１日　梅谷担当１
 
+- 締め切りは土曜日の夜までです(日曜日に採点したいので)
+- 遅れても減点するだけなので，できるだけ提出してください．
+- 技術的な問題で何かつまずいたら（環境構築ができないなど）Slackで教えて下さい
+  
+
+## 課題の提出方法
+
+- gitを使ってローカル上にレポジトリを構築
+  + 課題のレポジトリをダウンロード
+```bash
+git clone https://github.com/MediaProcessingClass/visproc_(ユーザ名)
+```
+
+- kadai1という名前のブランチを切る
+```bash
+cd visproc_(ユーザー名)
+git branch -a
+git checkout master
+git branch kadai1
+```
+
+- アップロードする
+```bash
+cd ..
+git add .
+git commit -m "completed kadai1"
+git push --set-upstream origin kadai1
+```
+
+- ブラウザでプルリクエストを作成
+
+
+
+
 ## 問題１（５点）
 
 以下のファイン変換されて歪んだ画像を，新たに別のアフィン変換することによって元に戻すようなPythonのコードを書いて，結果の画像をこの文書```readme.md```に貼り付けて下さい．
