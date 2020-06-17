@@ -10,8 +10,8 @@
 
 ## 第8回「Pythonを使った画像処理２」
 
-- 日時：6月１８日（水）
-- 授業スライド（PDF）：
+- 日時：6月１８日（木）
+- 授業スライド（PDF）：https://www.dropbox.com/s/lop88f1vv5bqbn2/lec08_pythonimage2.pdf?dl=0
 - ミニ課題：[kadai2のフォルダ](kadai2)からお願します．
 
 
