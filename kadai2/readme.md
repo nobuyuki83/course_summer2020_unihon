@@ -23,11 +23,13 @@
 cd visproc_(ユーザ名)　# レポジトリのトップに移動
 ```
 
-- kadai2という名前のブランチを*masterから派生して*作る
+- kadai2という名前のブランチを*masterから派生して*作る→課題を開始する
 ```bash
 git checkout master   # マスターブランチに移動
-git branch -a         # ブランチのブランチにいることを確認
+git branch -a         # masterブランチにいることを確認
 git branch kadai2     # masterブランチから派生したkadai2というブランチを作成
+git checkout kadai2   # kadai2ブランチに移動
+git branch -a         # kadai2ブランチにいることを確認
 ```
 
 - 課題の内容をこなした後にアップロードする
@@ -37,7 +39,7 @@ git branch -a   # 現在kadai2というブランチにいることを再確認
 git add .       # 変更されたファイルをステージする
 git status      # ステージされたファイルを確認する
 git commit -m "completed kadai2"         # 変更をコミットする．コメントはなんでもよい
-git push --set-upstream origin kadai2    # リモートレポジトリのkadai1というブランチにプッシュする
+git push --set-upstream origin kadai2    # リモートレポジトリのkadai2というブランチにプッシュする
 ```
 
 - ブラウザでプルリクエストを作成　→　６月１２日の授業スライドを参考にして下さい
