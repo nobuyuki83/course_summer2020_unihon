@@ -26,6 +26,7 @@ cd visproc_(ユーザ名)　# レポジトリのトップに移動
 - kadai2という名前のブランチを*masterから派生して*作る→課題を開始する
 ```bash
 git checkout master   # マスターブランチに移動
+git pull              # リモートのmasterブランチをローカルに反映（コンフリクトがあればそれを解決）
 git branch -a         # masterブランチにいることを確認
 git branch kadai2     # masterブランチから派生したkadai2というブランチを作成
 git checkout kadai2   # kadai2ブランチに移動
