@@ -16,6 +16,16 @@
 
 
 
+## 第９回「PythonとOpenGL」
+
+- 日時：６月２５日（木）
+
+- 授業スライド(PDF): https://www.dropbox.com/s/q1vo0vxvbn5h6h1/lec09_pythonopengl.pdf?dl=0
+
+- ミニ課題：[kadai3のフォルダ](kadai3)からお願いします．
+
+  
+
 
 
 ***
