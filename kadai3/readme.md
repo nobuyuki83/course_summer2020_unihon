@@ -102,7 +102,8 @@ OpenGL
 
 ロドリゲスの回転公式
 
-- [ロドリゲスの回転公式]([https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9%E3%81%AE%E5%9B%9E%E8%BB%A2%E5%85%AC%E5%BC%8F](https://ja.wikipedia.org/wiki/ロドリゲスの回転公式))
+- [ロドリゲスの回転公式](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9%E3%81%AE%E5%9B%9E%E8%BB%A2%E5%85%AC%E5%BC%8F)
+- [ロドリゲスの回転公式](https://risalc.info/src/rodrigues-rotation.html)
 
 Markdown
 
