@@ -22,7 +22,16 @@
 - 授業スライド(PDF): https://www.dropbox.com/s/q1vo0vxvbn5h6h1/lec09_pythonopengl.pdf?dl=0
 - ミニ課題：[kadai3のフォルダ](kadai3/readme.md)からお願いします．
 
-  
+
+
+
+## レポート課題１：「画像の統計的処理」
+
+- 出題日：６月２８日（日）
+- 〆切：７月２５日（土）２３時５９分
+- [report1のフォルダ](report1) からお願いします．
+
+
 
 
 
