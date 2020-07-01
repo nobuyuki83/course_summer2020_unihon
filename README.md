@@ -33,6 +33,14 @@
 
 
 
+## 第１０回「物理シミュレーションの基礎」
+
+- 日時：７月２日（木）
+- 授業スライド(PDF): https://www.dropbox.com/s/5n7dmaopm6qhsxb/lec10_physicssim.pptx?dl=0
+- ミニ課題：[kadai4のフォルダ](kadai4)からお願いします．
+
+
+
 
 
 ***

@@ -1,10 +1,14 @@
 # ミニ課題4　7月2日　第１０回目（梅谷担当）
 
+授業スライド：https://www.dropbox.com/s/5n7dmaopm6qhsxb/lec10_physicssim.pptx?dl=0
 
-授業スライド：
+
+
 - 締め切りは土曜日の夜までです(日曜日に採点したいので)
 - 遅れても少し減点するだけなので，できるだけ提出してください．
 - 技術的な問題で何かつまずいたら（環境構築ができないなど）Slackで教えて下さい
+
+
 
 
 ## 課題の提出方法
@@ -29,7 +33,7 @@ git branch -a         # kadai4ブランチにいることを確認
 - 課題の内容をこなした後にアップロードする
 ```bash
 cd visproc_(ユーザ名)   # レポジトリのトップに移動
-git branch -a   # 現在kadai3というブランチにいることを再確認→いなければkadai4をチェックアウト
+git branch -a   # 現在kadai4というブランチにいることを再確認→いなければkadai4をチェックアウト
 git add .       # 変更されたファイルをステージする
 git status      # ステージされたファイルを確認する
 git commit -m "completed kadai4"         # 変更をコミットする．コメントはなんでもよい
@@ -121,12 +125,10 @@ pip3 install numpy
 
 OpenGL
 - [Python + GLFW + OpenGL](https://qiita.com/Dhichisutto/items/76ec93c690caf20cedb9)
-- [GLUTによる「手抜き」OpenGL入門](https://tokoik.github.io/opengl/libglut.html)
-- [モデルビュー変換(OpenGL入門)](http://wisdom.sakura.ne.jp/system/opengl/gl11.html)
-- [射影変換(OpenGL入門)](http://wisdom.sakura.ne.jp/system/opengl/gl12.html)
-- [Python3で始めるOpenGL4](https://codelabo.com/posts/20200228175104)
 
-- https://risalc.info/src/rodrigues-rotation.html)
+物理シミュレーション
+
+- [反発係数（Wikipedia）]([https://ja.wikipedia.org/wiki/%E5%8F%8D%E7%99%BA%E4%BF%82%E6%95%B0](https://ja.wikipedia.org/wiki/反発係数))
 
 Markdown
 
