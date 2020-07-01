@@ -128,7 +128,7 @@ OpenGL
 
 物理シミュレーション
 
-- [反発係数（Wikipedia）]([https://ja.wikipedia.org/wiki/%E5%8F%8D%E7%99%BA%E4%BF%82%E6%95%B0](https://ja.wikipedia.org/wiki/反発係数))
+- [反発係数（Wikipedia）](https://ja.wikipedia.org/wiki/%E5%8F%8D%E7%99%BA%E4%BF%82%E6%95%B0)
 
 Markdown
 
