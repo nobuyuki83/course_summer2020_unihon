@@ -44,7 +44,6 @@
 ## 第１１回「キャラクターアニメーション」
 
 - 日時：７月９日（木）
-- 授業スライド(PDF): https://www.dropbox.com/s/5n7dmaopm6qhsxb/lec10_physicssim.pptx?dl=0
 - ミニ課題：[kadai5のフォルダ](kadai5)からお願いします．
 
 
