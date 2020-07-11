@@ -60,9 +60,9 @@ def draw_cube(
     [+1., +1., +1.],
   ]
   for xyz in aXYZ:
-    xyz[0] *= 0.5*edge_length + position[0]
-    xyz[1] *= 0.5*edge_length + position[1]
-    xyz[2] *= 0.5*edge_length + position[2]
+    xyz[0] = xyz[0]*0.5*edge_length + position[0]
+    xyz[1] = xyz[1]*0.5*edge_length + position[1]
+    xyz[2] = xyz[2]*0.5*edge_length + position[2]
 
   # 立方体の三角形の頂点インデックス
   aTri = [
